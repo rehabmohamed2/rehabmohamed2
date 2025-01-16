@@ -2,7 +2,7 @@
 
 Hi, I'm Rehab Mohamed Ahmed Lotfy, a passionate Computer Engineering student dedicated to creating innovative solutions in software development, fullstack, machine learning, and cybersecurity.
 
-![Profile Image](image.png)
+![Profile Image](github.jpg)
 
 ---
 
