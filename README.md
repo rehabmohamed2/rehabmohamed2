@@ -18,7 +18,7 @@ Hi, I'm Rehab Mohamed Ahmed Lotfy, a passionate Computer Engineering student ded
 
 - **Freelance Developer**: Building responsive web applications and interactive tools.
 - **Intern at EJADA**: Worked on backend projects.
-- 
+- **Intern at ITI**: Worked on Fullstack projects.
 
 ---
 
@@ -51,7 +51,7 @@ An interactive learning app powered by machine learning and voice recognition.
 
 - **GitHub**: [github.com/rehabmohamed2](https://github.com/rehabmohamed2)
 - **LinkedIn**: [linkedin.com/in/rehab-mohamed](https://www.linkedin.com/in/rehab-mohamed-39a13a218/)
-- **Email**: [rehabmohamed2@example.com](mailto:rehabmohamed151220@gmail.com)
+- **Email**: [rehab](mailto:rehabmohamed151220@gmail.com)
 
 ---
 
