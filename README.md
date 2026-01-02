@@ -26,7 +26,7 @@ Hi, I'm Rehab Mohamed Ahmed Lotfy, a passionate Computer Engineer dedicated to c
 
 ---
 
-## Skills 🚀
+## Skills 
 
 - **Languages**: C++, Java , Python, JavaScript (Reactjs , Angular, Node.js) , C#
 - **Frameworks & Libraries**: TensorFlow, Keras, Tkinter , .net , Springboot 
@@ -35,7 +35,7 @@ Hi, I'm Rehab Mohamed Ahmed Lotfy, a passionate Computer Engineer dedicated to c
 
 --- 
 
-## Projects 🛠️
+## Projects 
 
 ### **Static-Analysis-Tool**
 A Python-based tool for analyzing PE files and performing malware scans using VirusTotal.
@@ -51,7 +51,7 @@ An interactive learning app powered by machine learning and voice recognition.
 
 ---
 
-## Contact 📫
+## Contact 
 
 - **GitHub**: [github.com/rehabmohamed2](https://github.com/rehabmohamed2)
 - **LinkedIn**: [linkedin.com/in/rehab-mohamed](https://www.linkedin.com/in/rehab-mohamed-39a13a218/)
