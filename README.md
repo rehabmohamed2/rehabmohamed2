@@ -2,11 +2,11 @@
 
 Hi, I'm Rehab Mohamed Ahmed Lotfy, a passionate Computer Engineer dedicated to creating innovative solutions in software development, fullstack, machine learning, and cybersecurity.
 
-![Profile Image](git.jfif)
+![Profile Image](pic1.png)
 
 ---
 
-## About Me ⚡
+## About Me 
 
 - 🌱 I am currently exploring advanced projects in **AI-powered tools**, **web development**, and **malware analysis**.
 - 👩‍💻 Specializing in developing **educational apps**, **e-commerce platforms**, and **security tools**.
@@ -14,9 +14,13 @@ Hi, I'm Rehab Mohamed Ahmed Lotfy, a passionate Computer Engineer dedicated to c
 
 ---
 
-## Experience 💼
+## Experience 
 
 - **Freelance Developer**: Building responsive web applications and interactive tools.
+- **Software Engineer at Omdena**: Worked on Fullstack projects.
+- **Mentorship program at Microsoft**: Worked on Fullstack projects.
+- **Intern at Geidea**: Worked on Fullstack projects.
+- **Intern at Giza systems**: Worked on Fullstack projects.
 - **Intern at EJADA**: Worked on backend projects.
 - **Intern at ITI**: Worked on Fullstack projects.
 
@@ -24,12 +28,12 @@ Hi, I'm Rehab Mohamed Ahmed Lotfy, a passionate Computer Engineer dedicated to c
 
 ## Skills 🚀
 
-- **Languages**: C++, Java , Python, JavaScript (Reactjs , Angular, Node.js) 
-- **Frameworks & Libraries**: TensorFlow, Keras, Tkinter
+- **Languages**: C++, Java , Python, JavaScript (Reactjs , Angular, Node.js) , C#
+- **Frameworks & Libraries**: TensorFlow, Keras, Tkinter , .net , Springboot 
 - **Database Management**: MongoDB, SQL
 - **Tools**: Docker, Git, REST APIs
 
----
+--- 
 
 ## Projects 🛠️
 
