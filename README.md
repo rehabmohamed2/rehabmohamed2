@@ -17,11 +17,12 @@ Hi, I'm Rehab Mohamed Ahmed Lotfy, a passionate Computer Engineer dedicated to c
 ## Experience 
 
 - **Freelance Developer**: Building responsive web applications and interactive tools.
+- **Software Engineer at Geidea**: Worked on Fullstack projects.
 - **Software Engineer at Omdena**: Worked on Fullstack projects.
 - **Mentorship program at Microsoft**: Worked on Fullstack projects.
-- **Intern at Geidea**: Worked on Fullstack projects.
 - **Intern at Giza systems**: Worked on Fullstack projects.
 - **Intern at EJADA**: Worked on backend projects.
+- **Intern at AIM technologies**: Worked on Fullstack projects.
 - **Intern at ITI**: Worked on Fullstack projects.
 
 ---
